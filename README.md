@@ -1,4 +1,7 @@
 **IPL Data-Analysis**
+```
+Postgres Notes
+```
 
 https://github.com/RahulR300/Ipl_DataAnalysis/blob/main/PostgrSQL%20Course.pdf
 
